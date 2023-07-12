@@ -1,4 +1,8 @@
 import { productService } from "../repository/index.js";
+import { CustomError } from "../repository/customError.js";
+import { EError } from "../enums/EError.js";
+import { generateProductErrorInfo } from "../repository/productErrorInfo.js";
+import { generateProductErrorParam } from "../repository/productErrorParam.js";
 
 export const getProductsController = async (req, res) => {
     try {
@@ -46,8 +50,18 @@ export const getProductsController = async (req, res) => {
 
 export const getProductController = async (req, res) => {
     try {
-        const result = await productService.getProductById(req.params.pid);
-        if(result === null) res.status(400).json({status:"error", error: "ID NOT FOUND"});       
+        const productId = req.params.pid;
+        const result = await productService.getProductById(productId);
+        console.log(result)
+        if(result === undefined){ //res.status(400).json({status:"error", error: "ID NOT FOUND"});
+            console.log("Entro al if")
+            CustomError.createError({
+                name: "Product get by ID error",
+                cause: generateProductErrorParam(productId),
+                message:"Error when try to find the product by id",
+                errorCode: EError.INVALID_PARAM
+            }) 
+        }      
         res.send({
             status: 'success',
             payload: result
@@ -62,7 +76,12 @@ export const createProductController = async (req, res) => {
     try {
         let productBody = req.body;
         if(!productBody.title || !productBody.price || !productBody.code || !productBody.category){
-            res.status(400).json({status:"error", error: "Incomplete values"});
+            CustomError.createError({
+                name: "Product create error",
+                cause: generateProductErrorInfo(req.body),
+                message: "Error when try to create a product",
+                errorCode: EError.INVALID_JSON
+            });
         }else{
             let result = await productService.addProduct(productBody);
             res.send({

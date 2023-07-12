@@ -13,8 +13,7 @@ import mockingRouter from './routes/mockings.router.js';
 import passport from 'passport';
 import initializePassport from './config/passport.config.js';
 import { config } from './config/config.js';
-import { userModel } from './Dao/models/users.model.js';
-import messageModel from './Dao/models/messages.model.js';
+import { errorHandler } from "./middlewares/errorHandler.js";
 
 const MONGO = config.mongo.url;
 const PORT = config.server.port;
@@ -49,6 +48,8 @@ app.use('/api/mockingproducts', mockingRouter);
 
 app.use(passport.initialize());
 app.use(passport.session());
+
+app.use(errorHandler);
 
 const io = new Server(server);
 const messages = [];

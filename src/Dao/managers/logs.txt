@@ -1301,3 +1301,24 @@ Date: 12/7/2023 - Hour: 17:11:34 - Method: GET producs
 Date: 12/7/2023 - Hour: 17:11:37 - Method: GET producs
 Date: 12/7/2023 - Hour: 17:11:39 - Method: GET producs
 Date: 12/7/2023 - Hour: 17:11:46 - Method: GET producs
+Date: 12/7/2023 - Hour: 19:11:19 - Method: GET producs
+Date: 12/7/2023 - Hour: 19:11:35 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:11:57 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:12:08 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:12:12 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:13:53 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:15:06 - Method: GET a cart
+Date: 12/7/2023 - Hour: 19:15:42 - Method: GET all carts
+Date: 12/7/2023 - Hour: 19:15:50 - Method: GET a cart
+Date: 12/7/2023 - Hour: 19:17:35 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:17:54 - Method: GET producs
+Date: 12/7/2023 - Hour: 19:18:01 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:18:06 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:18:20 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:22:49 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:23:00 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:23:31 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:24:30 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:25:02 - Method: GET a product
+Date: 12/7/2023 - Hour: 19:26:32 - Method: GET a product
+Date: 12/7/2023 - Hour: 20:06:46 - Method: GET a product

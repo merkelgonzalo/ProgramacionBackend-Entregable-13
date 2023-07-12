@@ -8,7 +8,7 @@ router.get('/', getProductsController);
 
 router.get('/:pid', getProductController);
 
-router.post('/', autorization, createProductController);
+router.post('/', /*autorization,*/ createProductController);
 
 router.put('/:pid', autorization, updateProductController);
 

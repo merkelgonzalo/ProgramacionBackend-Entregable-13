@@ -1,7 +1,9 @@
 import { productModel } from '../models/products.model.js';
 import ManagerAccess from '../managers/ManagerAccess.js';
+import mongoose from 'mongoose';
 
 const managerAccess = new ManagerAccess();
+const ObjectId = mongoose.Types.ObjectId;
 
 export default class ProductManager{
 
@@ -44,7 +46,10 @@ export default class ProductManager{
     getProduct = async(pid) => {
         try{
             await managerAccess.saveLog('GET a product');
-            const result = await this.model.findOne({_id:pid});
+            let result;
+            if(ObjectId.isValid(pid)){
+                result = await this.model.find({_id: pid});
+            }
             return result;
         }catch(error){
             console.log('Cannot get product by id in manager with mongoose: '+error)
