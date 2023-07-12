@@ -10,8 +10,8 @@ router.get('/:pid', getProductController);
 
 router.post('/', /*autorization,*/ createProductController);
 
-router.put('/:pid', autorization, updateProductController);
+router.put('/:pid', /*autorization,*/ updateProductController);
 
-router.delete('/:pid', autorization, deleteProductController);
+router.delete('/:pid', /*autorization,*/ deleteProductController);
 
 export default router;

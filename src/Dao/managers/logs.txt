@@ -1322,3 +1322,13 @@ Date: 12/7/2023 - Hour: 19:24:30 - Method: GET a product
 Date: 12/7/2023 - Hour: 19:25:02 - Method: GET a product
 Date: 12/7/2023 - Hour: 19:26:32 - Method: GET a product
 Date: 12/7/2023 - Hour: 20:06:46 - Method: GET a product
+Date: 12/7/2023 - Hour: 20:21:04 - Method: GET a product
+Date: 12/7/2023 - Hour: 20:21:38 - Method: GET a product
+Date: 12/7/2023 - Hour: 20:26:03 - Method: UPDATE a product
+Date: 12/7/2023 - Hour: 20:26:39 - Method: UPDATE a product
+Date: 12/7/2023 - Hour: 20:27:01 - Method: UPDATE a product
+Date: 12/7/2023 - Hour: 20:31:09 - Method: UPDATE a product
+Date: 12/7/2023 - Hour: 20:32:34 - Method: GET producs
+Date: 12/7/2023 - Hour: 20:32:42 - Method: DELETE a product
+Date: 12/7/2023 - Hour: 20:32:48 - Method: DELETE a product
+Date: 12/7/2023 - Hour: 20:33:36 - Method: DELETE a product
