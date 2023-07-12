@@ -1215,3 +1215,89 @@ Date: 11/7/2023 - Hour: 18:12:40 - Method: GET producs
 Date: 11/7/2023 - Hour: 18:57:05 - Method: GET producs
 Date: 11/7/2023 - Hour: 18:57:26 - Method: GET producs
 Date: 11/7/2023 - Hour: 18:59:44 - Method: GET producs
+Date: 12/7/2023 - Hour: 17:09:50 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:50 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:50 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:51 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:51 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:51 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:51 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:52 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:52 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:52 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:53 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:53 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:53 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:53 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:54 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:54 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:54 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:55 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:55 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:55 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:55 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:56 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:56 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:56 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:56 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:57 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:57 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:57 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:58 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:58 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:58 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:58 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:59 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:59 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:59 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:09:59 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:00 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:00 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:00 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:00 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:01 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:01 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:01 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:01 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:02 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:02 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:02 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:02 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:02 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:03 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:03 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:03 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:03 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:04 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:04 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:04 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:04 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:05 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:05 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:05 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:05 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:06 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:06 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:06 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:06 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:06 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:07 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:07 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:07 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:08 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:08 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:08 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:08 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:09 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:09 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:09 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:10 - Method: POST a product
+Date: 12/7/2023 - Hour: 17:10:10 - Method: GET producs
+Date: 12/7/2023 - Hour: 17:11:10 - Method: GET producs
+Date: 12/7/2023 - Hour: 17:11:21 - Method: GET producs
+Date: 12/7/2023 - Hour: 17:11:25 - Method: GET producs
+Date: 12/7/2023 - Hour: 17:11:31 - Method: GET producs
+Date: 12/7/2023 - Hour: 17:11:34 - Method: GET producs
+Date: 12/7/2023 - Hour: 17:11:37 - Method: GET producs
+Date: 12/7/2023 - Hour: 17:11:39 - Method: GET producs
+Date: 12/7/2023 - Hour: 17:11:46 - Method: GET producs

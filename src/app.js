@@ -9,6 +9,7 @@ import session from 'express-session';
 import productRouter from './routes/products.router.js';
 import cartRouter from './routes/carts.router.js';
 import sessionRouter from './routes/sessions.router.js';
+import mockingRouter from './routes/mockings.router.js';
 import passport from 'passport';
 import initializePassport from './config/passport.config.js';
 import { config } from './config/config.js';
@@ -44,6 +45,7 @@ app.use('/', viewsRouter);
 app.use('/api/products', productRouter);
 app.use('/api/carts', cartRouter);
 app.use('/api/sessions', sessionRouter);
+app.use('/api/mockingproducts', mockingRouter);
 
 app.use(passport.initialize());
 app.use(passport.session());
