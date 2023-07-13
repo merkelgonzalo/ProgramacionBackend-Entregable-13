@@ -67,8 +67,15 @@ export const getProductsController = async (req, res) => {
 
 export const getCartController = async (req, res) => {
     try {
-        let result = await cartService.getCartByIdPopulate(req.params.cid);
-        if (result.length === 0) res.status(400).json({ status: "error", error: "ID NOT FOUND" });
+        const result = await cartService.getCartByIdPopulate(req.params.cid);
+        if (result.length === 0) {
+            errorService.customError({
+                name: "Cart ID error",
+                cause: errorService.generateCartErrorParam(idCart),
+                message:"Error when try to find the cart by id",
+                errorCode: EError.INVALID_PARAM
+            });
+        }
         const products = result.products;
         res.render('cart', {
             idCart: result._id,
