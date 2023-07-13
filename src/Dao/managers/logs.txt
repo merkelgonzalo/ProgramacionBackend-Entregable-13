@@ -1369,3 +1369,21 @@ Date: 12/7/2023 - Hour: 21:12:37 - Method: UPDATE all products in a cart
 Date: 12/7/2023 - Hour: 21:12:38 - Method: POST a ticket
 Date: 12/7/2023 - Hour: 21:12:38 - Method: PUT a ticket
 Date: 12/7/2023 - Hour: 21:12:39 - Method: GET a cart
+Date: 12/7/2023 - Hour: 21:21:38 - Method: GET producs
+Date: 12/7/2023 - Hour: 21:21:43 - Method: Login
+Date: 12/7/2023 - Hour: 21:21:47 - Method: POST a cart
+Date: 12/7/2023 - Hour: 21:24:59 - Method: POST a cart
+Date: 12/7/2023 - Hour: 21:26:14 - Method: GET producs
+Date: 12/7/2023 - Hour: 21:26:18 - Method: Login
+Date: 12/7/2023 - Hour: 21:26:24 - Method: POST a cart
+Date: 12/7/2023 - Hour: 21:27:45 - Method: GET producs
+Date: 12/7/2023 - Hour: 21:27:49 - Method: Login
+Date: 12/7/2023 - Hour: 21:27:54 - Method: POST a cart
+Date: 12/7/2023 - Hour: 21:28:52 - Method: GET producs
+Date: 12/7/2023 - Hour: 21:28:54 - Method: Login
+Date: 12/7/2023 - Hour: 21:28:59 - Method: POST a cart
+Date: 12/7/2023 - Hour: 21:29:01 - Method: GET producs
+Date: 12/7/2023 - Hour: 21:31:14 - Method: Login
+Date: 12/7/2023 - Hour: 21:31:17 - Method: GET producs
+Date: 12/7/2023 - Hour: 21:31:20 - Method: Login
+Date: 12/7/2023 - Hour: 21:31:26 - Method: GET producs

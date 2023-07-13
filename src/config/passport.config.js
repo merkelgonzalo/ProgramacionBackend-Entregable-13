@@ -99,25 +99,18 @@ const initializePassport = () => {
         },
         async (accesToken, refreshToken, profile, done)=>{
             try {    
-                console.log(profile);
-                let user = await userModel.findOne({email: profile._json.email});
-                user.cart = await cartService.addCart();
+                const email = profile.emails[0].value;
+                let user = await userModel.findOne({email: email});
                 
                 if(!user){
-                    let email;
-                    if(profile._json.email != null){
-                        email = profile._json.email;
-                    }else{
-                        email = 'Email not available';
-                    }
                     const newUser = {
                             first_name: profile._json.name,
                             last_name:'',
-                            email: email,
+                            email,
                             age: 18,
                             password: '',
-                            role: 'user',
-                            cart: user.cart
+                            cart: await cartService.addCart(),
+                            role: 'user' 
                     }
                     const result = await userModel.create(newUser);
                     done(null, result);
