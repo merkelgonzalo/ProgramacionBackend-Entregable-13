@@ -8,6 +8,8 @@ router.get('/', getProductsController);
 
 router.get('/:pid', getProductController);
 
+//DESCOMENTAR PARA AUTORIZACION ADMIN
+
 router.post('/', /*autorization,*/ createProductController);
 
 router.put('/:pid', /*autorization,*/ updateProductController);

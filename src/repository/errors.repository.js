@@ -27,5 +27,17 @@ export class ErrorRepository{
         `
     }
 
+    generateCartErrorParam = (cid) => {
+        return `
+        Cart ID is invalid, must be an integer and an existing ID, but received: ${cid}
+        `
+    }
+
+    generateCartProductErrorParam = (cid, pid) => {
+        let result = this.generateCartErrorParam(cid);
+        result = result + this.generateProductErrorParam(pid);
+        return result
+    }
+
 
 }
